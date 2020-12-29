@@ -10,7 +10,7 @@ Calculator provides simple and advanced mathematical functions in a beautifully 
 
 
 My 1st Android App
-Started the journey of Android Development in January 2019. A good start indeed 
+Started the journey of Android Development in January 2020. A good start indeed 
 
 License
 Project is published under the GPL-3.0 license. Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
